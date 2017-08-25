@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rats", "Rats.csproj", "{57A14AF2-CDE0-0954-B881-7E61DCF5951B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rats.Editor", "Rats.Editor.csproj", "{69160101-7880-0015-89BB-550EB4A5EA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A14AF2-CDE0-0954-B881-7E61DCF5951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A14AF2-CDE0-0954-B881-7E61DCF5951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A14AF2-CDE0-0954-B881-7E61DCF5951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A14AF2-CDE0-0954-B881-7E61DCF5951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69160101-7880-0015-89BB-550EB4A5EA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69160101-7880-0015-89BB-550EB4A5EA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69160101-7880-0015-89BB-550EB4A5EA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69160101-7880-0015-89BB-550EB4A5EA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
